@@ -1,0 +1,45 @@
+*{
+    margin: 10px;
+    padding: 8px;
+}
+
+
+.todo{
+        margin: auto;
+    height: 900px;
+    background-color:royalblue;
+    width: 1550px;
+}
+
+.title{
+    border-radius: 10px;
+    color: white;
+    display: block;
+    background-color: red;
+}
+
+
+.cuerpo-1{
+    border-radius: 15px;
+    background-color: aqua;
+    width: 300px;
+    height: 350px;
+    display: inline-block;
+    margin-bottom: 300px;
+}
+
+.cuerpo-2{
+    border-radius: 15px;
+    margin-left: 30px;
+        display: inline-block;
+    height: 650px;
+    width: 1000px;
+    background-color: black;
+}
+
+.cuerpo-3{
+    border-radius: 15px;
+    background-color: darkgray;
+    width: 1520px;
+    height: 70px;
+}
