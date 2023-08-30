@@ -1,0 +1,140 @@
+.todo{
+    margin: auto;
+    background-color:darkorchid;
+    width: 1430px;
+    height: 1400px;
+}
+
+.p1{
+    display: flex;
+    background-color: darkgrey;
+    height: 120px;
+}
+.p1 h1{
+    margin-left: 30px;
+    font-size: 50px;
+}
+
+.p1 h3{
+    margin-left: 530px;
+    font-size: 30px;
+}
+
+.p2{
+    display: flex;
+}
+
+.foto img{
+    width: 500px;
+    margin: 30px;
+    border: solid 10px white;
+}
+
+.parrafo h4{
+    font-size: 25px;
+}
+
+.parrafo p{
+    font-size: 20px;
+}
+
+.parrafo a{
+    color: black;
+    font-size: 20px;
+}
+
+.parrafo{
+    padding: 5px;
+    margin-left: 30px;
+    margin-top: 30px;
+    width: 680px;
+    background-color: white;
+    height: 340px;
+}
+
+.card{
+    background-color: white;
+    margin: 10px;
+}
+
+.p3{ 
+    display: flex;
+    margin-left: 20px;
+}
+
+.card img{
+    width: 400px;
+}
+
+.pa{
+    background-color: gray;
+    margin: 0px;
+}
+
+.pi {
+    padding: 10px;
+    margin: 0;
+    background-color: white;
+    width: 380px;
+    height: 200px;
+}
+
+.pe{
+    background-color: grey;
+    margin: 0;
+}
+
+.d1{
+    background-color: white;
+    width: 400px;
+    height: 200px;
+    padding: 20px;
+}
+
+.d1 img{
+    margin: 10px;
+    width: 50px;
+}
+
+.d1 h4{
+    border: solid black 1px;
+    margin-left: 150px;
+    border-radius: 10px;
+    padding-left: 10px;
+    width: 70px;
+    color: white;
+    background-color: darkgreen;
+}
+
+.p4{
+    padding: 5px;
+    height: 99px;
+    margin-top: 40px;
+    background-color: grey;
+}
+
+.p4 p{
+    text-align: center;
+}
+
+.p4 img{
+    width: 30px;
+}
+
+.p4 a{
+    color: black;
+    padding-left: 8px;
+}
+
+.foto-2 img{
+    width: 30px;
+}
+
+.foto-2 a{
+    color: black;
+    padding-left: 8px;
+}
+
+.foto-2{
+    margin-left: 500px;
+}
