@@ -1,0 +1,46 @@
+
+.todo{
+    margin: auto;
+    background-color:burlywood;
+    width: 1600px;
+    height: 1700px;
+    padding: 10px;
+}
+
+.titulo {
+    margin: 150px;
+    margin-left: 350px;
+}
+
+.titulo img{
+    width: 200px;
+}
+
+.titulo a {
+    padding-left: 20px;
+    font-size: 45px;
+}
+
+
+.cuerpo{
+    display: flex;
+    justify-content: space-around;
+}
+
+.img{
+    background-color: deepskyblue;
+    width: 220px;
+    padding: 15px;
+    border: solid black 10px;
+    justify-content: center;
+    margin: 10px;
+}
+
+.img-1{
+    background-color: red;
+    width: 220px;
+    padding: 15px;
+    border: solid black 10px;
+    justify-content: center;
+    margin: 10px;
+}
