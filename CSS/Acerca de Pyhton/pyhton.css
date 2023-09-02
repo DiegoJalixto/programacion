@@ -1,0 +1,86 @@
+.todo{
+    background-color: darkcyan;
+    width: 1800px;
+    height: 1300px;
+    margin: auto;
+}
+
+.bot{
+    display: flex;
+}
+
+.bot button{
+    font-size: 20px;
+    border: solid white 1px;
+    color: white;
+    background-color:cornflowerblue;
+    width: 80px;
+    border-radius: 10px;
+}
+
+.title{
+    display: flex;
+}
+
+.pa p{
+    font-size: 18px;
+    margin-left:900px;
+}
+
+.pa input{
+    margin-left: 730px;
+}
+
+input{
+    margin-right: 10px;
+    height: 50px;
+    width: 250px;
+}
+
+.linea p{
+    border-right: solid black 5px;
+    border-bottom: solid black 5px;
+    border-radius: 15px;
+    color: white;
+    padding: 20px;
+    font-size: 40px;
+    margin: 120px;
+    text-align: center;
+    width: 1400px;
+    height: 70px;
+    background-color:cornflowerblue
+}
+.text{
+    display: flex;
+    font-size: 40px;
+    margin-left: 150px;
+}
+
+.text ul{
+    color:gold;
+}
+
+.text a {
+    color: white;
+}
+
+.po{
+    margin-left: 50px;
+}
+
+.text p{
+    margin-left: 80px;
+}
+
+.final h4{
+    margin: 20px;
+    color: goldenrod;
+    font-size: 30px;
+    margin-left: 820px;
+}
+
+.final p{
+    color: white;
+    font-size: 28px;
+    margin-left: 890px;
+}
