@@ -1,0 +1,208 @@
+.todo{
+    margin: auto;
+    background-color:gainsboro;
+    width: 1600px;
+    height: 1530px;
+}
+
+.title img{
+    width: 150px;
+}
+
+.title a{
+    font-size: 70px;
+}
+
+.title span{
+    color: deepskyblue;
+}
+
+.title h1{
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 50px;
+    padding: 15px;
+    background-color:dodgerblue;
+    color: white;
+    width: 1570px;
+    height: 50px;
+}
+
+.padre{
+    display: flex;
+}
+
+.infer span{
+    color: red;
+}
+
+.infer a{
+    color: deepskyblue;
+}
+
+.infer p{   
+    margin-left: 10px;
+    font-size: 30px;
+}
+
+.boton-1{
+    padding-left: 20px;
+    font-size: 30px;
+    width: 300px;
+    height: 50px;
+    color: white;
+    background-color: royalblue;
+    margin: 10px;
+    border-radius: 15px;
+}
+
+.boton-2{
+    border-radius: 15px;
+    background-color: chocolate;
+    color: white;
+    width: 300px;
+    height: 50px;
+    font-size: 25px;
+    margin: 10px;
+}
+
+.foto-1{
+    width: 300px;
+    margin: 20px;
+}
+
+.foto-2{
+    position: relative;
+    left: -260px;
+    width: 150px;
+    top: -130px;
+}
+
+.infer h2{
+    color: white;
+    position: relative;
+    left: 80px;
+    top: -450px;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.boton-3{
+    color: white;
+    background-color: deepskyblue;
+    position: relative;
+    left: 55px;
+    top: -250px;
+    width: 250px;
+    height: 50px;
+    font-size: 24px;
+    border-radius: 15px;
+}
+
+.foto-3{
+    width: 40px;
+}
+
+.text h4{
+    position: relative;
+    left: 900px;
+    top: -85px;
+}
+
+.foto-4{
+    width: 80px;
+    position: relative;
+    left: 790px;
+    top: -120px;
+}
+
+.a-1{
+    color: deepskyblue;
+    font-size: 20px;
+}
+
+.a-2{
+    color: deepskyblue;
+    font-size: 40px;
+    position: relative;
+    left: 800px;
+    top: -140px;
+    font-weight: 1000;
+}
+
+.a-3{
+    position: relative;
+    left: 600px;
+    top: -120px;
+}
+
+.linea{
+    border-bottom: solid darkgray 3px;
+    width: 1050px;
+    position: relative;
+    top: -100px;
+}
+
+.text h3{
+    color:cornflowerblue;
+    position: relative;
+    top: -100px;
+    font-size: 28px;
+}
+
+.text p{
+    position: relative;
+    top: -110px;
+    font-size: 19px;
+}
+
+.text span{
+    color: deepskyblue;
+}
+
+.text li{
+    font-size: 22px;
+    position: relative;
+    left: 50px;
+    top: -100px;
+}
+
+.foto-5{
+    width: 500px;
+    position: relative;
+    left: 280px;
+    top: -80px;
+}
+
+.text h2{
+    color:cornflowerblue;
+    font-size: 28px;
+    position: relative;
+    top: -90px;
+}
+
+.foto-6{
+    width: 230px;
+    margin-left: 50px;
+}
+
+.text h1{
+    color: cornflowerblue;
+    position: relative;
+    left: 300px;
+    top: -210px;
+}
+
+.text label{
+    font-size: 20px;
+    position: relative;
+    left: 300px;
+    top: -210px;
+}
+
+.linea-2{
+    border-top: solid deepskyblue 10px;
+    border-left: solid deepskyblue 10px;
+    border-right: solid deepskyblue 10px;
+    height: 250px;
+    padding: 10px;
+}
