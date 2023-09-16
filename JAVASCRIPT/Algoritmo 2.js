@@ -108,12 +108,14 @@ console.log(i); 2,4,6,8,10,12,14
 }
 */
 
-/*
-for(var i=0; i<3; i++) {
-    for(var j=0; j<2; j++) {    
-console.log(i*j); 0.0.0,1,0,2
+
+
+for(var num1=1; num1<=3; num1++){
+    //0,1,2
+     for(var num2=1; num2<=2; num2++){
+        console.log("Dojo")//Dojo,Dojo,Dojo,Dojo,dojo,D
+    }
 }
-*/ 
 
 /*
 function looping(x,y) {
