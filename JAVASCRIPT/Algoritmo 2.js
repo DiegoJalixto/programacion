@@ -8,16 +8,16 @@
 
 /*
 1) function a(){
-2)   console.log('hello');
+2)   console.log('hello'); hello
 3)   return 15;
 4) }
 5) x = a();
-6) console.log('x is', x); hello 15
+6) console.log('x is', x); 15
 */
 
 /*
 1) function a(n){
-2)   console.log('n is', n);
+2)   console.log('n is', n); 
 3)   return n+15;
 4) }
 5) x = a(3);
@@ -31,7 +31,7 @@
 4)   return y;
 5) }
 6) x = a(3) + a(5);
-7) console.log('x is', x); 15
+7) console.log('x is', x); 16
 */
 
 /*
@@ -104,18 +104,16 @@ console.log(x); 15
 
 /*
 for(var i=0; i<15; i+=2) {
-console.log(i); 2,4,6,8,10,12,14
+console.log(i); 0,2,4,6,8,10,12,14
 }
 */
 
-
-
-for(var num1=1; num1<=3; num1++){
-    //0,1,2
-     for(var num2=1; num2<=2; num2++){
-        console.log("Dojo")//Dojo,Dojo,Dojo,Dojo,dojo,D
-    }
+/* 
+for(var i=0; i<3; i++) {
+for(var j=0; j<2; j++) {    
+    console.log(i*j); 0,0,0,1,,0,2
 }
+}*/
 
 /*
 function looping(x,y) {
