@@ -1,0 +1,106 @@
+*{
+    margin: 0;
+}
+
+.title{
+    background-color:black;
+    height: 20px; 
+    padding: 20px;
+    font-size: 20px; 
+}
+
+.e{
+    padding-right: 20px;
+    color: white;
+    font-size: 25px;
+}
+
+.i{
+    padding-right: 15px;
+    color: white;
+}
+
+.o{
+    padding-right: 15px;
+    color: darkgray;
+}
+
+.u{
+    color:darkgray;
+}
+
+.Fisio{
+    font-size: 20px;
+    color: darkgray;
+    background-color: black;
+    border: solid 1px black;
+}
+
+input{
+    position: relative;
+    left: 300px;
+    width: 240px;
+    padding: 3px;
+    border-radius: 5px;
+    border: solid 1px gray;
+    color: gray;
+}
+
+.p{
+    position: relative;
+    left: 300px;
+    color: darkgreen;
+    border: solid 1px darkgreen;
+    background-color:  black;
+}
+
+.cuerpo{
+    background-color: #e9ecef;
+    padding: 3rem 2rem;
+}
+
+h1{
+    font-size: 50px;
+    padding-left: 120px;
+    padding-bottom: 20px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+p{
+    font-size: 22px;
+    padding-left: 120px;
+}
+
+.boton-2{
+    border-radius: 5px;
+    padding: 1rem;
+    font-size: 1.25rem; 
+    color: #fff;
+    background-color: #007bff;
+    border-color: #007bff;
+    margin-top: 30px;
+    margin-left: 120px;
+}
+
+.final{
+    display: flex;
+    background-color:#fff;
+    padding: 5rem;
+}
+
+.boton-3{
+    border: solid 1px #6c757d;
+    border-radius: 5px;
+    padding: 10px;
+    color: #fff;
+    background-color: #6c757d;
+    border-color: #6c757d;
+}
+
+h2{
+    margin-bottom: 10px;
+}
+
+.cr7{
+    padding-right: 70px;
+}
